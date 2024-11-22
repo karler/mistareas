@@ -9,5 +9,4 @@
     function formatDate($date) {
         return $date->toDateTime()->format('Y-m-d');
     }
-    
 ?>
